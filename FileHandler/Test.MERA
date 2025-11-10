@@ -1,0 +1,19 @@
+[MERA]
+Test=Папка создана пакетом WinПОС
+Prod=file
+Date=13.12.2023
+Time=23:04:42.903
+[B1-G1-L1]
+DateTime=100000
+XUnits=с
+Start=0
+Step=5.0e-005
+Freq=20000
+k0=0
+k1=1.000000000000
+YFormat=R8
+Function=0
+XType=5
+YType=0
+XUnitsId=0x100000501
+YUnitsId=0x0

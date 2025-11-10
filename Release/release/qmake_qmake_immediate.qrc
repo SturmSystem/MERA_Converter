@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="QML/asset_imports/asset_imports.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/asset_imports/asset_imports.txt</file>
+<file alias="QML/CMakeLists.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/CMakeLists.txt</file>
+<file alias="QML/content/App.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/App.qml</file>
+<file alias="QML/content/CMakeLists.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/CMakeLists.txt</file>
+<file alias="QML/content/CustomButton.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/CustomButton.qml</file>
+<file alias="QML/content/FilesString.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/FilesString.qml</file>
+<file alias="QML/content/InputName.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/InputName.qml</file>
+<file alias="QML/content/NumberField.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/NumberField.qml</file>
+<file alias="QML/content/Screen01.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/Screen01.qml</file>
+<file alias="QML/content/Screen02.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/Screen02.qml</file>
+<file alias="QML/content/StringSelector.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/StringSelector.qml</file>
+<file alias="QML/content/TextExample.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/TextExample.qml</file>
+<file alias="QML/content/fonts/fonts.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/content/fonts/fonts.txt</file>
+<file alias="QML/imports/CMakeLists.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/CMakeLists.txt</file>
+<file alias="QML/imports/Mera_Converter/CMakeLists.txt">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/CMakeLists.txt</file>
+<file alias="QML/imports/Mera_Converter/Constants.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/Constants.qml</file>
+<file alias="QML/imports/Mera_Converter/DirectoryFontLoader.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/DirectoryFontLoader.qml</file>
+<file alias="QML/imports/Mera_Converter/EventListModel.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/EventListModel.qml</file>
+<file alias="QML/imports/Mera_Converter/EventListSimulator.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/EventListSimulator.qml</file>
+<file alias="QML/imports/Mera_Converter/qmldir">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/qmldir</file>
+<file alias="QML/imports/Mera_Converter/designer/plugin.metainfo">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/imports/Mera_Converter/designer/plugin.metainfo</file>
+<file alias="QML/main.qml">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/main.qml</file>
+<file alias="QML/Mera_Converter.qmlproject">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/Mera_Converter.qmlproject</file>
+<file alias="QML/Mera_Converter.qmlproject.qtds">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/Mera_Converter.qmlproject.qtds</file>
+<file alias="QML/qmlcomponents">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/qmlcomponents</file>
+<file alias="QML/qmlmodules">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/qmlmodules</file>
+<file alias="QML/qtquickcontrols2.conf">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/qtquickcontrols2.conf</file>
+<file alias="QML/src/app_environment.h">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/src/app_environment.h</file>
+<file alias="QML/src/import_qml_components_plugins.h">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/src/import_qml_components_plugins.h</file>
+<file alias="QML/src/import_qml_plugins.h">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/src/import_qml_plugins.h</file>
+<file alias="QML/src/main.cpp">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/QML/src/main.cpp</file>
+<file alias="qtquickcontrols2.conf">C:/Users/Fufai/Desktop/Programs/Qt/Projects/MERA_Converter/qtquickcontrols2.conf</file>
+</qresource>
+</RCC>

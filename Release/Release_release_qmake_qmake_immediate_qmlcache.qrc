@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file alias="QML/asset_imports/asset_imports.txt">../QML/asset_imports/asset_imports.txt</file>
+        <file alias="QML/CMakeLists.txt">../QML/CMakeLists.txt</file>
+        <file alias="QML/content/App.qml">../QML/content/App.qml</file>
+        <file alias="QML/content/CMakeLists.txt">../QML/content/CMakeLists.txt</file>
+        <file alias="QML/content/CustomButton.qml">../QML/content/CustomButton.qml</file>
+        <file alias="QML/content/FilesString.qml">../QML/content/FilesString.qml</file>
+        <file alias="QML/content/InputName.qml">../QML/content/InputName.qml</file>
+        <file alias="QML/content/NumberField.qml">../QML/content/NumberField.qml</file>
+        <file alias="QML/content/Screen01.qml">../QML/content/Screen01.qml</file>
+        <file alias="QML/content/Screen02.qml">../QML/content/Screen02.qml</file>
+        <file alias="QML/content/StringSelector.qml">../QML/content/StringSelector.qml</file>
+        <file alias="QML/content/TextExample.qml">../QML/content/TextExample.qml</file>
+        <file alias="QML/content/fonts/fonts.txt">../QML/content/fonts/fonts.txt</file>
+        <file alias="QML/imports/CMakeLists.txt">../QML/imports/CMakeLists.txt</file>
+        <file alias="QML/imports/Mera_Converter/CMakeLists.txt">../QML/imports/Mera_Converter/CMakeLists.txt</file>
+        <file alias="QML/imports/Mera_Converter/Constants.qml">../QML/imports/Mera_Converter/Constants.qml</file>
+        <file alias="QML/imports/Mera_Converter/DirectoryFontLoader.qml">../QML/imports/Mera_Converter/DirectoryFontLoader.qml</file>
+        <file alias="QML/imports/Mera_Converter/EventListModel.qml">../QML/imports/Mera_Converter/EventListModel.qml</file>
+        <file alias="QML/imports/Mera_Converter/EventListSimulator.qml">../QML/imports/Mera_Converter/EventListSimulator.qml</file>
+        <file alias="QML/imports/Mera_Converter/qmldir">../QML/imports/Mera_Converter/qmldir</file>
+        <file alias="QML/imports/Mera_Converter/designer/plugin.metainfo">../QML/imports/Mera_Converter/designer/plugin.metainfo</file>
+        <file alias="QML/main.qml">../QML/main.qml</file>
+        <file alias="QML/Mera_Converter.qmlproject">../QML/Mera_Converter.qmlproject</file>
+        <file alias="QML/Mera_Converter.qmlproject.qtds">../QML/Mera_Converter.qmlproject.qtds</file>
+        <file alias="QML/qmlcomponents">../QML/qmlcomponents</file>
+        <file alias="QML/qmlmodules">../QML/qmlmodules</file>
+        <file alias="QML/qtquickcontrols2.conf">../QML/qtquickcontrols2.conf</file>
+        <file alias="QML/src/app_environment.h">../QML/src/app_environment.h</file>
+        <file alias="QML/src/import_qml_components_plugins.h">../QML/src/import_qml_components_plugins.h</file>
+        <file alias="QML/src/import_qml_plugins.h">../QML/src/import_qml_plugins.h</file>
+        <file alias="QML/src/main.cpp">../QML/src/main.cpp</file>
+        <file alias="qtquickcontrols2.conf">../qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>
